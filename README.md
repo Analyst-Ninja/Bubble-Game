@@ -16,4 +16,9 @@ I'm a Business Analyst working in Data Analysis, Data Science, and ML. But Curre
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-04aaab163/)
 
 ## 🛠 Skills
-Python, SQL, PySpark, SAS, BDL, Javascript, HTML, CSS
+* Python
+* SQL
+* PySpark
+* SAS
+* BDL
+* Javascript, HTML, CSS
