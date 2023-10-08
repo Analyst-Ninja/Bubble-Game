@@ -4,7 +4,9 @@
 Bubble Hit is a fast-paced game where you aim to pop bubbles with the same number as the target within a 30-second time limit. Each successful pop earns you 10 points. Keep an eye on the timer and aim for a high score. Click or tap matching bubbles to play. 
 Have fun!!!
 
-## Demo
+## Demo 
+
+Click here for live demo --> https://marvelous-bubblegum-987220.netlify.app/
 
 ![image](https://github.com/Analyst-Ninja/Buuble-Game/assets/81576967/2fa6ed69-9c21-49e8-9c73-4ca997e91ddb)
 
